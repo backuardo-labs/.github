@@ -1,2 +1,2 @@
 # [BACKUARDO LABS](www.backuardolabs.com)
-![BACKUARDO LABS](./floppy.png)
+![BACKUARDO LABS](./profile/floppy.png)
